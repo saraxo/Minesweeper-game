@@ -66,3 +66,4 @@ Implementation of popular Minesweeper game in Java.
 
 
 
+![dijagram_toka (1)](https://github.com/saraxo/Minesweeper-game/assets/129538263/2e3fa5ca-4a88-4640-b709-ffdc0b477032)
